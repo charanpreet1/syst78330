@@ -16,6 +16,7 @@ public class ShapeList {
      */
     public static void main(String[] args) {
         SmallCircle c=new SmallCircle();
+        System.out.println("hello world");
         
     }
 
